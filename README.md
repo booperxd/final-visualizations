@@ -1,2 +1,2 @@
 # final-visualizations
-My visualizations for my final project for Data Viz
+My visualizations/data retrieval for my final project for data visualization and analysis
